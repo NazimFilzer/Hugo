@@ -1,4 +1,5 @@
-baseURL = "https://example.com"
+baseURL = 'https://NazimFilzer.github.io/Hugo_intro/'
+canonifyURLs = true
 title = "Notepadium"
 theme = "hugo-notepadium"
 copyright = "©2019 Notepadium."
