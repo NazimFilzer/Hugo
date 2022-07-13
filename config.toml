@@ -1,5 +1,4 @@
-baseURL = 'https://NazimFilzer.github.io/Hugo_intro
-/'
+baseURL = 'https://NazimFilzer.github.io/Hugo/'
 canonifyURLs = true
 title = "Notepadium"
 theme = "hugo-notepadium"
